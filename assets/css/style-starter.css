@@ -15275,7 +15275,7 @@ h6.title {
   align-items: center;
   background-size: cover;
   -ms-background-size: cover;
-  background-image: var(--banner), url(../images/cp.jpg);
+  background-image: var(--banner), url(../images/galaksi.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: top;
 }
